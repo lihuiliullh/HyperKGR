@@ -2,7 +2,9 @@
 
 
 Dataset can be found from 
+
 inductive   https://github.com/LARS-research/RED-GNN/tree/main/inductive/data
+
 transductive   https://github.com/LARS-research/RED-GNN/tree/main/transductive/data
 
 ## Instructions
